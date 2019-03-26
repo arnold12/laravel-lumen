@@ -1,0 +1,17 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/debugbar
+/.idea
+/.vscode
+/.vagrant
+npm-debug.log
+yarn-error.log
+.phpunit.result.cache
+/public/upload
